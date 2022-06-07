@@ -1,0 +1,1 @@
+ CSES - Functional Graph Distribution     A functional graph is a directed graph where each node has outdegree 11. For example, here is a functional graph that has 99 nodes and 22 components:  Given nn, your task is to calculate for each k=1…nk=1…n the number of functional graphs that have nn nodes and kk components.  

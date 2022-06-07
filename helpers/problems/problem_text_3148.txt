@@ -1,0 +1,1 @@
+ CSES - Throwing Dice      Your task is to calculate the number of ways to get a sum nn by throwing dice. Each throw yields an integer between 1…61…6.  For example, if n=10, some possible ways are 3+3+4, 1+4+1+4 and 1+1+6+1+1.  

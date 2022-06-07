@@ -1,0 +1,1 @@
+ CSES - Game Routes      A game has nn levels, connected by mm teleporters, and your task is to get from level 1 to level n. The game has been designed so that there are no directed cycles in the underlying graph. In how many ways can you complete the game?  

@@ -1,0 +1,1 @@
+Design a data structure that efficiently finds the majority element of a given subarray.The majority element of a subarray is an element that occurs threshold times or more in the subarray.Implementing the MajorityChecker class: 

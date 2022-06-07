@@ -1,0 +1,1 @@
+ CSES - Range Updates and Sums      Your task is to maintain an array of nn values and efficiently process the following types of queries:  Increase each value in range [a,b][a,b] by x.  Set each value in range [a,b] to x.  Calculate the sum of values in range [a,b].  

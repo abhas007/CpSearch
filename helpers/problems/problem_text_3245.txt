@@ -1,0 +1,1 @@
+ CSES - Bit Problem      Given a list of nn integers, your task is to calculate for each element xx:  the number of elements y such that x∣y=x  the number of elements y such that x&y=x  the number of elements y such that x&y≠0  

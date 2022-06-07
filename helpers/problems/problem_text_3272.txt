@@ -1,0 +1,1 @@
+ CSES - Filling Trominos      Your task is to fill an n×mn×m grid using L-trominos (three squares that have an L-shape). For example, here is one way to fill a 4×64×6 grid:  

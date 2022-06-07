@@ -1,0 +1,1 @@
+ CSES - Gray Code      A Gray code is a list of all 2n2n bit strings of length nn, where any two successive strings differ in exactly one bit (i.e., their Hamming distance is one).  Your task is to create a Gray code for a given length n.  

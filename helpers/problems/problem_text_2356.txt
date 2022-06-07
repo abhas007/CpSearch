@@ -1,0 +1,1 @@
+You are given an integer array nums, and you can perform the following operation any number of times on nums:Return true if it is possible to sort nums in non-decreasing order using the above swap method, or false otherwise. 

@@ -1,0 +1,1 @@
+You are given a string s consisting of digits and an integer k.A round can be completed if the length of s is greater than k. In one round, do the following:Return s after all rounds have been completed. 

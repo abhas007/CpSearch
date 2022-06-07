@@ -1,0 +1,1 @@
+ CSES - Xor Pyramid      Consider a xor pyramid where each number is the xor of lower-left and lower-right numbers. Here is an example pyramid:  Given the bottom row of the pyramid, your task is to find the topmost number.  

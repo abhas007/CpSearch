@@ -1,0 +1,1 @@
+ CSES - Monotone Subsequences      Your task is to create a permutation of numbers 1,2,…,n1,2,…,n whose longest monotone subsequence has exactly kk elements.  A monotone subsequence is either increasing or decreasing. For example, some monotone subsequences in [2,1,4,5,3] are [2,4,5] and [4,3].  

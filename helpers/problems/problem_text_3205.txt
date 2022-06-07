@@ -1,0 +1,1 @@
+ CSES - Dynamic Connectivity      Consider an undirected graph that consists of nn nodes and mm edges. There are two types of events that can happen: A new edge is created between nodes a and b. An existing edge between nodes a and b is removed.  Your task is to report the number of components after every event.  

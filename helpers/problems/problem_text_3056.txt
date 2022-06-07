@@ -1,0 +1,1 @@
+ CSES - Elevator Rides      There are nn people who want to get to the top of a building which has only one elevator. You know the weight of each person and the maximum allowed weight in the elevator. What is the minimum number of elevator rides?  

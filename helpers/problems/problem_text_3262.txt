@@ -1,0 +1,1 @@
+ CSES - Grid Paths      Consider an n×nn×n grid whose top-left square is (1,1)(1,1) and bottom-right square is (n,n).  Your task is to move from the top-left square to the bottom-right square. On each step you may move one square right or down. In addition, there are m traps in the grid. You cannot move to a square with a trap.  What is the total number of possible paths?  

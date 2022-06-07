@@ -1,0 +1,1 @@
+ CSES - Subarray Sum Queries      There is an array consisting of nn integers. Some values of the array will be updated, and after each update, your task is to report the maximum subarray sum in the array.   

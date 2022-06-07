@@ -1,0 +1,1 @@
+ CSES - Traffic Lights      There is a street of length xx whose positions are numbered 0,1,…,x0,1,…,x. Initially there are no traffic lights, but n sets of traffic lights are added to the street one after another.  Your task is to calculate the length of the longest passage without traffic lights after each addition.  

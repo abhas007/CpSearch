@@ -1,0 +1,1 @@
+Under the grammar given below, strings can represent a set of lowercase words. Let R(expr) denote the set of words the expression represents.The grammar can best be understood through simple examples:Formally, the three rules for our grammar:Given an expression representing a set of words under the given grammar, return the sorted list of words that the expression represents. 

@@ -1,0 +1,1 @@
+ CSES - School Dance      There are nn boys and mm girls in a school. Next week a school dance will be organized. A dance pair consists of a boy and a girl, and there are k potential pairs.  Your task is to find out the maximum number of dance pairs and show how this number can be achieved.  

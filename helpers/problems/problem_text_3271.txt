@@ -1,0 +1,1 @@
+ CSES - Maximum Building II      You are given a map of a forest where some squares are empty and some squares have trees.  You want to place a rectangular building in the forest so that no trees need to be cut down. For each building size, your task is to calculate the number of ways you can do this.  

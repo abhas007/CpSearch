@@ -1,0 +1,1 @@
+You are given a stream of points on the X-Y plane. Design an algorithm that:An axis-aligned square is a square whose edges are all the same length and are either parallel or perpendicular to the x-axis and y-axis.Implement the DetectSquares class: 

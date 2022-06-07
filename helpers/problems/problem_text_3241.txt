@@ -1,0 +1,1 @@
+ CSES - Cyclic Array      You are given a cyclic array consisting of nn values. Each element has two neighbors; the elements at positions nn and 1 are also considered neighbors.  Your task is to divide the array into subarrays so that the sum of each subarray is at most k. What is the minimum number of subarrays?  

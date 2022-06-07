@@ -1,0 +1,1 @@
+ CSES - Distinct Colors      You are given a rooted tree consisting of nn nodes. The nodes are numbered 1,2,…,n1,2,…,n, and node 1 is the root. Each node has a color.  Your task is to determine for each node the number of distinct colors in the subtree of the node.  

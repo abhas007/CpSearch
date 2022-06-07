@@ -1,0 +1,1 @@
+You are given a sorted array nums of n non-negative integers and an integer maximumBit. You want to perform the following query n times:Return an array answer, where answer[i] is the answer to the ith query. 

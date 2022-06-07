@@ -1,0 +1,1 @@
+ CSES - New Roads Queries      There are nn cities in Byteland but no roads between them. However, each day, a new road will be built. There will be a total of mm roads.  Your task is to process q queries of the form: "after how many days can we travel from city a to city b for the first time?"  

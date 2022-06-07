@@ -1,0 +1,1 @@
+You are given a 0-indexed array nums consisting of n positive integers.The array nums is called alternating if:In one operation, you can choose an index i and change nums[i] into any positive integer.Return the minimum number of operations required to make the array alternating. 

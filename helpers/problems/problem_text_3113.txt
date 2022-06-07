@@ -1,0 +1,1 @@
+ CSES - Range Queries and Copies      Your task is to maintain a list of arrays which initially has a single array. You have to process the following types of queries: Set the value aa in array kk to x. Calculate the sum of values in range [a,b] in array k. Create a copy of array k and add it to the end of the list.  

@@ -1,0 +1,1 @@
+ CSES - Reachability Queries      A directed graph consists of nn nodes and mm edges. The edges are numbered 1,2,…,n.  Your task is to answer q queries of the form "can you reach node b from node a?"  

@@ -1,0 +1,1 @@
+ CSES - Forest Queries II      You are given an n×nn×n grid representing the map of a forest. Each square is either empty or has a tree. Your task is to process qq queries of the following types: Change the state (empty/tree) of a square. How many trees are inside a rectangle in the forest?  

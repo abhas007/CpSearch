@@ -1,0 +1,1 @@
+ CSES - Subordinates      Given the structure of a company, your task is to calculate for each employee the number of their subordinates.  

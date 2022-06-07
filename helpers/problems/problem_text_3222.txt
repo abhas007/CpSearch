@@ -1,0 +1,1 @@
+ CSES - Chess Tournament      There will be a chess tournament of nn players. Each player has announced the number of games they want to play.  Each pair of players can play at most one game. Your task is to determine which games will be played so that everybody will be happy.  

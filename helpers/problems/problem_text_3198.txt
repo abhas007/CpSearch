@@ -1,0 +1,1 @@
+ CSES - Subarray Squares      Given an array of nn elements, your task is to divide into kk subarrays. The cost of each subarray is the square of the sum of the values in the subarray. What is the minimum total cost if you act optimally?  

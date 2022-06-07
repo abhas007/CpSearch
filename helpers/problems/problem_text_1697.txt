@@ -1,0 +1,1 @@
+Given a binary tree with the following rules:Now the binary tree is contaminated, which means all treeNode.val have been changed to -1.Implement the FindElements class: 

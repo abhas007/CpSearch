@@ -1,0 +1,1 @@
+ CSES - Knight's Tour      Given a starting position of a knight on an 8×88×8 chessboard, your task is to find a sequence of moves such that it visits every square exactly once.  On each move, the knight may either move two steps horizontally and one step vertically, or one step horizontally and two steps vertically.  

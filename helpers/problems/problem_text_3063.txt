@@ -1,0 +1,1 @@
+ CSES - Building Teams      There are nn pupils in Uolevi's class, and mm friendships between them. Your task is to divide the pupils into two teams in such a way that no two pupils in a team are friends. You can freely choose the sizes of the teams.  

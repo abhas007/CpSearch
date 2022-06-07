@@ -1,0 +1,1 @@
+ CSES - Area of Rectangles      Given nn rectangles, your task is to determine the total area of their union.  

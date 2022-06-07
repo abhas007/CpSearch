@@ -1,0 +1,1 @@
+ CSES - Intersection Points      Given nn horizontal and vertical line segments, your task is to calculate the number of their intersection points.  You can assume that no parallel line segments intersect, and no endpoint of a line segment is an intersection point.  

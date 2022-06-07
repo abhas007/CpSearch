@@ -1,0 +1,1 @@
+ CSES - Substring Order II      You are given a string of length nn. If all of its substrings (not necessarily distinct) are ordered lexicographically, what is the kkth smallest of them?  

@@ -1,0 +1,1 @@
+ CSES - Static Range Minimum Queries      Given an array of nn integers, your task is to process qq queries of the form: what is the minimum value in range [a,b]?  

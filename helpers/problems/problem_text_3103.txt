@@ -1,0 +1,1 @@
+ CSES - List Removals      You are given a list consisting of nn integers. Your task is to remove elements from the list at given positions, and report the removed elements.  

@@ -1,0 +1,1 @@
+ CSES - Point in Polygon      You are given a polygon of nn vertices and a list of mm points. Your task is to determine for each point if it is inside, outside or on the boundary of the polygon.  The polygon consists of n vertices (x1,y1),(x2,y2),…,(xn,yn). The vertices (xi,yi) and (xi+1,yi+1) are adjacent for i=1,2,…,n−1, and the vertices (x1,y1) and (xn,yn) are also adjacent.  

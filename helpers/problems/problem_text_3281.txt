@@ -1,0 +1,1 @@
+ CSES - Creating Offices      There are nn cities and n−1n−1 roads between them. There is a unique route between any two cities, and their distance is the number of roads on that route.  A company wants to have offices in some cities, but the distance between any two offices has to be at least d. What is the maximum number of offices they can have?  

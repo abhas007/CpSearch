@@ -1,0 +1,1 @@
+The beauty of a string is the difference in frequencies between the most frequent and least frequent characters.Given a string s, return the sum of beauty of all of its substrings. 

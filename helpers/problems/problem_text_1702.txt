@@ -1,0 +1,1 @@
+Design a stack which supports the following operations.Implement the CustomStack class: 

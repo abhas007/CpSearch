@@ -1,0 +1,1 @@
+ CSES - Bit Inversions      There is a bit string consisting of nn bits. Then, there are some changes that invert one given bit. Your task is to report, after each change, the length of the longest substring whose each bit is the same.  

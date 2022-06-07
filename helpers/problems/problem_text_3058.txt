@@ -1,0 +1,1 @@
+ CSES - Counting Numbers      Your task is to count the number of integers between aa and bb where no two adjacent digits are the same.  

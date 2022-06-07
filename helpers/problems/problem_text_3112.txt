@@ -1,0 +1,1 @@
+ CSES - Polynomial Queries      Your task is to maintain an array of nn values and efficiently process the following types of queries: Increase the first value in range [a,b][a,b] by 1, the second value by 2, the third value by 3, and so on. Calculate the sum of values in range [a,b].  

@@ -1,0 +1,1 @@
+ CSES - Reversal Sorting      You have an array that contains a permutation of integers 1,2,…,n1,2,…,n. Your task is to sort the array in increasing order by reversing subarrays. You can construct any solution that has at most nn reversals.  

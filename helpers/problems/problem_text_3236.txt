@@ -1,0 +1,1 @@
+ CSES - Writing Numbers      You would like to write a list of positive integers 1,2,3,…1,2,3,… using your computer. However, you can press each key 00–9 at most n times during the process.  What is the last number you can write?  

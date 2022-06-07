@@ -1,0 +1,1 @@
+ CSES - Polygon Area      Your task is to calculate the area of a given polygon.  The polygon consists of nn vertices (x1,y1),(x2,y2),…,(xn,yn)(x1,y1),(x2,y2),…,(xn,yn). The vertices (xi,yi) and (xi+1,yi+1) are adjacent for i=1,2,…,n−1, and the vertices (x1,y1) and (xn,yn) are also adjacent.  

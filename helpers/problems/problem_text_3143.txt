@@ -1,0 +1,1 @@
+ CSES - Bracket Sequences I      Your task is to calculate the number of valid bracket sequences of length nn. For example, when n=6n=6, there are 5 sequences:  ()()()  ()(())  (())()  ((()))  (()())  

@@ -1,0 +1,1 @@
+ CSES - Range Xor Queries      Given an array of nn integers, your task is to process qq queries of the form: what is the xor sum of values in range [a,b]?  

@@ -1,0 +1,1 @@
+ CSES - Creating Strings II      Given a string, your task is to calculate the number of different strings that can be created using its characters.  

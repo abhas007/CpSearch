@@ -1,0 +1,1 @@
+ CSES - Josephus Problem I      Consider a game where there are nn children (numbered 1,2,…,n1,2,…,n) in a circle. During the game, every second child is removed from the circle, until there are no children left. In which order will the children be removed?  

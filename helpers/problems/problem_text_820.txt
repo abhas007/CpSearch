@@ -1,0 +1,1 @@
+Table: Tree Each node in the tree can be one of three types:Write an SQL query to report the type of each node in the tree.Return the result table ordered by id in ascending order.The query result format is in the following example. 

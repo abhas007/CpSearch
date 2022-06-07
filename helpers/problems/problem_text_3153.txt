@@ -1,0 +1,1 @@
+ CSES - Candy Lottery      There are nn children, and each of them independently gets a random integer number of candies between 11 and k.  What is the expected maximum number of candies a child gets?  

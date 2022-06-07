@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&display=swap" rel="stylesheet">
+    <title>CP Search Engine</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  
+  <body>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
+    <div class="container">
+      <h1 id="page-title">CP Question Search Engine</h1>
+      <br/>
+      <div class="row justify-content-center">
+          <div class="col-12 col-md-10 col-lg-8">
+              <form class="card card-sm" action="/search" method="post">
+                  <div class="card-body row no-gutters align-items-center">
+                      <div class="col-auto">
+                          <i class="fas fa-search h4 text-body"></i>
+                      </div>
+                      <!--end of col-->
+                      <form>
+                        <div class="col">
+                          <input class="form-control form-control-lg form-control-borderless" type="search" placeholder="Search topics or keywords" name="question">
+                        </div>
+                        <!--end of col-->
+                        <div class="col-auto">
+                            <button class="btn btn-lg btn-success" type="submit" name="button">Search</button>
+                        </div>
+                        <!--end of col-->
+                      </form>
+                  </div>
+              </form>
+          </div>
+          <!--end of col-->
+      </div>
+    </div>
+
+    <div class="questionDetails">
+        <h2 class="qTitle"><%=title%></h2>
+        <p class="qPS">
+            <a href="<%=url%>"><u>Click Here</u></a> to view & solve the full problem.
+        </p>
+        <br><br>
+        <h5><%=statement%></h5>
+    </div>
+    
+    
+</body>
+</html>

@@ -1,0 +1,1 @@
+Table: Employees Table: Salaries Write an SQL query to report the IDs of all the employees with missing information. The information of an employee is missing if:Return the result table ordered by employee_id in ascending order.The query result format is in the following example. 

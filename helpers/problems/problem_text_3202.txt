@@ -1,0 +1,1 @@
+ CSES - One Bit Positions      You are given a binary string of length nn and your task is to calculate for every k between 1…n−11…n−1 the number of ways we can choose two positions i and j such that i−j=k and there is a one-bit at both positions.  

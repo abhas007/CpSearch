@@ -1,0 +1,1 @@
+Given two arrays of integers nums and index. Your task is to create target array under the following rules:Return the target array.It is guaranteed that the insertion operations will be valid. 

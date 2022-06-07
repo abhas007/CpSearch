@@ -1,0 +1,1 @@
+ CSES - Counting Bishops      Your task is to count the number of ways kk bishops can be placed on an n×nn×n chessboard so that no two bishops attack each other.  Two bishops attack each other if they are on the same diagonal.  

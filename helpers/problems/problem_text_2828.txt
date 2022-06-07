@@ -1,0 +1,1 @@
+Design a queue that supports push and pop operations in the front, middle, and back.Implement the FrontMiddleBack class:Notice that when there are two middle position choices, the operation is performed on the frontmost middle position choice. For example: 

@@ -1,0 +1,1 @@
+ CSES - Counting Necklaces      Your task is to count the number of different necklaces that consist of nn pearls and each pearl has mm possible colors.  Two necklaces are considered to be different if it is not possible to rotate one of them so that they look the same.  

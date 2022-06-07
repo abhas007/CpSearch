@@ -1,0 +1,1 @@
+There are 3n piles of coins of varying size, you and your friends will take piles of coins as follows:Given an array of integers piles where piles[i] is the number of coins in the ith pile.Return the maximum number of coins that you can have. 

@@ -1,0 +1,1 @@
+Given an integer n, you must transform it into 0 using the following operations any number of times:Return the minimum number of operations to transform n into 0. 

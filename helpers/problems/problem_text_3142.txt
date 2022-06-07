@@ -1,0 +1,1 @@
+ CSES - Christmas Party      There are nn children at a Christmas party, and each of them has brought a gift. The idea is that everybody will get a gift brought by someone else.  In how many ways can the gifts be distributed?  

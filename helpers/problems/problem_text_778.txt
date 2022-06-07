@@ -1,0 +1,1 @@
+Given an array arr of positive integers, consider all binary trees such that:Among all possible binary trees considered, return the smallest possible sum of the values of each non-leaf node. It is guaranteed this sum fits into a 32-bit integer.A node is a leaf if and only if it has zero children. 

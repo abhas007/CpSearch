@@ -1,0 +1,1 @@
+ CSES - New Flight Routes      There are nn cities and mm flight connections between them. Your task is to add new flights so that it will be possible to travel from any city to any other city. What is the minimum number of new flights required?  

@@ -1,0 +1,1 @@
+ CSES - De Bruijn Sequence      Your task is to construct a minimum-length bit string that contains all possible substrings of length nn. For example, when n=2n=2, the string 00110 is a valid solution, because its substrings of length 2 are 00, 01, 10 and 11.  

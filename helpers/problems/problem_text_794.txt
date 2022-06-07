@@ -1,0 +1,1 @@
+Given the following details of a matrix with n columns and 2 rows :Your task is to reconstruct the matrix with upper, lower and colsum.Return it as a 2-D integer array.If there are more than one valid solution, any of them will be accepted.If no valid solution exists, return an empty 2-D array. 

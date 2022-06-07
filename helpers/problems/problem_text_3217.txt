@@ -1,0 +1,1 @@
+ CSES - Advertisement      A fence consists of nn vertical boards. The width of each board is 1 and their heights may vary.  You want to attach a rectangular advertisement to the fence. What is the maximum area of such an advertisement?  

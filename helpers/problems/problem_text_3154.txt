@@ -1,0 +1,1 @@
+ CSES - Inversion Probability      An array has nn integers x1,x2,…,xnx1,x2,…,xn, and each of them has been randomly chosen between 1 and ri. An inversion is a pair (a,b) where a<b and xa>xb.  What is the expected number of inversions in the array?  

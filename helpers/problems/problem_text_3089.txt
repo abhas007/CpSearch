@@ -1,0 +1,1 @@
+ CSES - Hamiltonian Flights      There are nn cities and mm flight connections between them. You want to travel from Syrjälä to Lehmälä so that you visit each city exactly once. How many possible routes are there?  

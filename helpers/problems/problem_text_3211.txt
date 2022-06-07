@@ -1,0 +1,1 @@
+ CSES - Swap Game      You are given a 3×33×3 grid containing the numbers 1,2,…,91,2,…,9. Your task is to perform a sequence of moves so that the grid will look like this:  1 2 3 4 5 6 7 8 9  On each move, you can swap the numbers in any two adjacent squares (horizontally or vertically). What is the minimum number of moves required?  

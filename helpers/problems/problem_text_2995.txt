@@ -1,0 +1,1 @@
+ CSES - Trailing Zeros      Your task is to calculate the number of trailing zeros in the factorial n!n!.  For example, 20!=243290200817664000020!=2432902008176640000 and it has 4 trailing zeros.  

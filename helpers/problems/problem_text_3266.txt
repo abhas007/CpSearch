@@ -1,0 +1,1 @@
+ CSES - Book Shop II      You are in a book shop which sells nn different books. You know the price, the number of pages and the number of copies of each book.  You have decided that the total price of your purchases will be at most xx. What is the maximum number of pages you can buy? You can buy several copies of the same book.  

@@ -1,0 +1,1 @@
+ CSES - Palindrome Queries      You are given a string that consists of nn characters between a–z. The positions of the string are indexed 1,2,…,n1,2,…,n.  Your task is to process m operations of the following types:  Change the character at position k to x  Check if the substring from position a to position b is a palindrome  

@@ -1,0 +1,1 @@
+Given an empty set of intervals, implement a data structure that can:Implement the CountIntervals class:Note that an interval [left, right] denotes all the integers x where left <= x <= right. 

@@ -1,0 +1,1 @@
+ CSES - Exponentiation II      Your task is to efficiently calculate values abcabc modulo 109+7109+7.  Note that in this task we assume that 00=1.  

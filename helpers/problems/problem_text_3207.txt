@@ -1,0 +1,1 @@
+ CSES - Task Assignment      A company has nn employees and there are nn tasks that need to be done. We know for each employee the cost of carrying out each task. Every employee should be assigned to exactly one task. What is the minimum total cost if we assign the tasks optimally and how could they be assigned?  

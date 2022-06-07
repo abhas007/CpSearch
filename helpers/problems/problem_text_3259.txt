@@ -1,0 +1,1 @@
+ CSES - Grid Puzzle I      There is an n×nn×n grid, and your task is to choose from each row and column some number of squares. How can you do that?  

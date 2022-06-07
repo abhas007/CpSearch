@@ -1,0 +1,1 @@
+ CSES - Counting Towers      Your task is to build a tower whose width is 22 and height is nn. You have an unlimited supply of blocks whose width and height are integers.  For example, here are some possible solutions for n=6:  Given n, how many different towers can you build? Mirrored and rotated towers are counted separately if they look different.  

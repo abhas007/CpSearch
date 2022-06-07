@@ -1,0 +1,1 @@
+ CSES - Planets Queries I      You are playing a game consisting of nn planets. Each planet has a teleporter to another planet (or the planet itself).  Your task is to process qq queries of the form: when you begin on planet x and travel through k teleporters, which planet will you reach?  

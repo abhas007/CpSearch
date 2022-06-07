@@ -1,0 +1,1 @@
+ CSES - Nested Ranges Check      Given nn ranges, your task is to determine for each range if it contains some other range and if some other range contains it.  Range [a,b][a,b] contains range [c,d] if a≤c and d≤b.  

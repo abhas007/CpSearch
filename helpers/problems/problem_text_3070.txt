@@ -1,0 +1,1 @@
+ CSES - Cycle Finding      You are given a directed graph, and your task is to find out if it contains a negative cycle, and also give an example of such a cycle.  

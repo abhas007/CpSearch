@@ -1,0 +1,1 @@
+ CSES - Finding Patterns      Given a string and patterns, check for each pattern if it appears in the string.  

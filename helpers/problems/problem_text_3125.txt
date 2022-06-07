@@ -1,0 +1,1 @@
+ CSES - Path Queries II      You are given a tree consisting of nn nodes. The nodes are numbered 1,2,…,n1,2,…,n. Each node has a value.  Your task is to process following types of queries:  change the value of node s to x  find the maximum value on the path between nodes a and b.  

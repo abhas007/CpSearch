@@ -1,0 +1,1 @@
+ CSES - Two Stacks Sorting      You are given an input list that consists of nn numbers. Each integer between 11 and n appears exactly once in the list.  Your task is to create a sorted output list using two stacks. On each move you can do one of the following:  Move the first number from the input list to a stack  Move a number from a stack to the end of the output list  

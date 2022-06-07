@@ -1,0 +1,1 @@
+ CSES - Dice Probability      You throw a dice nn times, and every throw produces an outcome between 11 and 6. What is the probability that the sum of outcomes is between a and b?  

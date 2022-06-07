@@ -1,0 +1,1 @@
+ CSES - Finding a Centroid      Given a tree of nn nodes, your task is to find a centroid, i.e., a node such that when it is appointed the root of the tree, each subtree has at most ⌊n/2⌋⌊n/2⌋ nodes.  

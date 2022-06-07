@@ -1,0 +1,1 @@
+ CSES - Two Knights      Your task is to count for k=1,2,…,nk=1,2,…,n the number of ways two knights can be placed on a k×kk×k chessboard so that they do not attack each other.  

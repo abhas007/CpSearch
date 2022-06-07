@@ -1,0 +1,1 @@
+ CSES - Grid Completion      Your task is to create an n×nn×n grid whose each row and column has exactly one A and B. Some of the characters have already been placed. In how many ways can you complete the grid?  

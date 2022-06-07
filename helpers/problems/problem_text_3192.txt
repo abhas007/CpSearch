@@ -1,0 +1,1 @@
+ CSES - Reversals and Sums      Given an array of nn integers, you have to process following operations:   reverse a subarray  calculate the sum of values in a subarray  

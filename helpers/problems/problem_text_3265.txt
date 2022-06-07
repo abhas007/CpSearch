@@ -1,0 +1,1 @@
+ CSES - Counting Reorders      Calculate the number of ways you can reorder the characters of a string so that no two adjacent characters are the same.  For example, the answer for aabc is 66, because the possible orders are abac, abca, acab, acba, baca, and caba.  

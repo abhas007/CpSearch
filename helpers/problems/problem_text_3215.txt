@@ -1,0 +1,1 @@
+ CSES - Even Outdegree Edges      Given an undirected graph, your task is to choose a direction for each edge so that in the resulting directed graph each node has an even outdegree. The outdegree of a node is the number of edges coming out of that node.  

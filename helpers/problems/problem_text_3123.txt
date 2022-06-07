@@ -1,0 +1,1 @@
+ CSES - Subtree Queries      You are given a rooted tree consisting of nn nodes. The nodes are numbered 1,2,…,n1,2,…,n, and node 1 is the root. Each node has a value.  Your task is to process following types of queries:  change the value of node s to x  calculate the sum of values in the subtree of node s  

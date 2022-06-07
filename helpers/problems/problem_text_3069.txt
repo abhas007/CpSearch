@@ -1,0 +1,1 @@
+ CSES - Flight Discount      Your task is to find a minimum-price flight route from Syrjälä to Metsälä. You have one discount coupon, using which you can halve the price of any single flight during the route. However, you can only use the coupon once.  

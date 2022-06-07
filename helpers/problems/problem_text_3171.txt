@@ -1,0 +1,1 @@
+ CSES - Pattern Positions      Given a string and patterns, find for each pattern the first position (1-indexed) where it appears in the string.  

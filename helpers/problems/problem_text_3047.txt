@@ -1,0 +1,1 @@
+ CSES - Array Description      You know that an array has nn integers between 11 and  m, and the absolute difference between two adjacent values is at most 1.  Given a description of the array where some values may be unknown, your task is to count the number of arrays that match the description.  

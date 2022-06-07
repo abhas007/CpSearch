@@ -1,0 +1,1 @@
+ CSES - Required Substring      Your task is to calculate the number of strings of length nn having a given pattern of length mm as their substring. All strings consist of characters A–Z.  

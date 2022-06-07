@@ -1,0 +1,1 @@
+ CSES - Counting Patterns      Given a string and patterns, count for each pattern the number of positions where it appears in the string.  

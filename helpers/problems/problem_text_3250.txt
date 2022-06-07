@@ -1,0 +1,1 @@
+ CSES - Critical Cities      There are nn cities and mm flight connections between them. A city is called a critical city if it appears on every route from a city to another city.  Your task is to find all critical cities from Syrjälä to Lehmälä.  

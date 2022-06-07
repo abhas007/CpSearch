@@ -1,0 +1,1 @@
+ CSES - Permutations II      A permutation of integers 1,2,…,n1,2,…,n is called beautiful if there are no adjacent elements whose difference is 11.  Given nn, your task is to count the number of beautiful permutations.  

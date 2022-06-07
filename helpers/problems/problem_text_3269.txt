@@ -1,0 +1,1 @@
+ CSES - Missing Coin Sum Queries      You have nn coins with positive integer values. The coins are numbered 1,2,…,n1,2,…,n.  Your task is to process q queries of the form: "if you can use coins a…b, what is the smallest sum you cannot produce?"  

@@ -1,0 +1,1 @@
+ CSES - Dynamic Range Sum Queries      Given an array of nn integers, your task is to process qq queries of the following types:  update the value at position k to u  what is the sum of values in range [a,b]?  

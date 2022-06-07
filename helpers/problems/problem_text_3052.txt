@@ -1,0 +1,1 @@
+ CSES - Removal Game      There is a list of nn numbers and two players who move alternately. On each move, a player removes either the first or last number from the list, and their score increases by that number. Both players try to maximize their scores.  What is the maximum possible score for the first player when both players play optimally?  

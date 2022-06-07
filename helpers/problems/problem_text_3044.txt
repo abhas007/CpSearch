@@ -1,0 +1,1 @@
+ CSES - Removing Digits      You are given an integer nn. On each step, you may subtract one of the digits from the number.  How many steps are required to make the number equal to 00?  

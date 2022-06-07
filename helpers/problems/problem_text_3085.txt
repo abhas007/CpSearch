@@ -1,0 +1,1 @@
+ CSES - Coin Collector      A game has nn rooms and mm tunnels between them. Each room has a certain number of coins. What is the maximum number of coins you can collect while moving through the tunnels when you can freely choose your starting and ending room?  

@@ -1,0 +1,1 @@
+We are playing the Guessing Game. The game will work as follows:Given a particular n, return the minimum amount of money you need to guarantee a win regardless of what number I pick. 

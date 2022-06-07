@@ -1,0 +1,1 @@
+ CSES - Company Queries II      A company has nn employees, who form a tree hierarchy where each employee has a boss, except for the general director.  Your task is to process qq queries of the form: who is the lowest common boss of employees a and b in the hierarchy?  

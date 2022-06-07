@@ -1,0 +1,1 @@
+ CSES - Factory Machines      A factory has nn machines which can be used to make products. Your goal is to make a total of tt products.  For each machine, you know the number of seconds it needs to make a single product. The machines can work simultaneously, and you can freely decide their schedule.  What is the shortest time needed to make t products?  

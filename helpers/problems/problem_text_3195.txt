@@ -1,0 +1,1 @@
+ CSES - Eulerian Subgraphs      You are given an undirected graph that has nn nodes and mm edges.  We consider subgraphs that have all nodes of the original graph and some of its edges. A subgraph is called Eulerian if each node has even degree.  Your task is to count the number of Eulerian subgraphs modulo 109+7.  

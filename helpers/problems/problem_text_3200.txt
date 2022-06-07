@@ -1,0 +1,1 @@
+ CSES - Knuth Division      Given an array of nn numbers, your task is to divide it into nn subarrays, each of which has a single element.  On each move, you may choose any subarray and split it into two subarrays. The cost of such a move is the sum of values in the chosen subarray.  What is the minimum total cost if you act optimally?  

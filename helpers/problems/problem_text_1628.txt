@@ -1,0 +1,1 @@
+Given a parentheses string s containing only the characters '(' and ')'. A parentheses string is balanced if:In other words, we treat '(' as an opening parenthesis and '))' as a closing parenthesis.You can insert the characters '(' and ')' at any position of the string to balance it if needed.Return the minimum number of insertions needed to make s balanced. 

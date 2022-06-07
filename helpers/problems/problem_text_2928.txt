@@ -1,0 +1,1 @@
+n passengers board an airplane with exactly n seats. The first passenger has lost the ticket and picks a seat randomly. But after that, the rest of the passengers will:Return the probability that the nth person gets his own seat. 

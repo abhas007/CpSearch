@@ -1,0 +1,1 @@
+ CSES - Inverse Inversions      Your task is to create a permutation of numbers 1,2,…,n1,2,…,n that has exactly kk inversions.  An inversion is a pair (a,b) where a<b and pa>pb where pi denotes the number at position i in the permutation.  

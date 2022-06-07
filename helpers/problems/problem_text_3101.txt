@@ -1,0 +1,1 @@
+ CSES - Forest Queries      You are given an n×nn×n grid representing the map of a forest. Each square is either empty or contains a tree. The upper-left square has coordinates (1,1)(1,1), and the lower-right square has coordinates (n,n).  Your task is to process q queries of the form: how many trees are inside a given rectangle in the forest?  

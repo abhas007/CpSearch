@@ -1,0 +1,1 @@
+You are given two sorted arrays of distinct integers nums1 and nums2.A valid path is defined as follows:The score is defined as the sum of uniques values in a valid path.Return the maximum score you can obtain of all possible valid paths. Since the answer may be too large, return it modulo 109 + 7. 

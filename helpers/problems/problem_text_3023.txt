@@ -1,0 +1,1 @@
+ CSES - Nested Ranges Count      Given nn ranges, your task is to count for each range how many other ranges it contains and how many other ranges contain it.  Range [a,b][a,b] contains range [c,d] if a≤c and d≤b.  

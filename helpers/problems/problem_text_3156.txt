@@ -1,0 +1,1 @@
+ CSES - Nim Game I      There are nn heaps of sticks and two players who move alternately. On each move, a player chooses a non-empty heap and removes any number of sticks. The player who removes the last stick wins the game.  Your task is to find out who wins if both players play optimally.  

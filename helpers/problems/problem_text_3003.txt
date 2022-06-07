@@ -1,0 +1,1 @@
+ CSES - Digit Queries      Consider an infinite string that consists of all positive integers in increasing order:  12345678910111213141516171819202122232425...  Your task is to process qq queries of the form: what is the digit at position kk in the string?  

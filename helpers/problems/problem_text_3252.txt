@@ -1,0 +1,1 @@
+ CSES - Coin Grid      There is an n×nn×n grid whose each square is empty or has a coin. On each move, you can remove all coins in a row or column.  What is the minimum number of moves after which the grid is empty?  

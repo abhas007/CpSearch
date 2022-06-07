@@ -1,0 +1,1 @@
+ CSES - Minimum Euclidean Distance      Given a set of points in the two-dimensional plane, your task is to find the minimum Euclidean distance between two distinct points.  The Euclidean distance of points (x1,y1)(x1,y1) and (x2,y2)(x2,y2) is √(x1−x2)2+(y1−y2)2.  

@@ -1,0 +1,1 @@
+Given an equation, represented by words on the left side and the result on the right side.You need to check if the equation is solvable under the following rules:Return true if the equation is solvable, otherwise return false. 

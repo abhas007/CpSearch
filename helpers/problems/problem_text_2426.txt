@@ -1,0 +1,1 @@
+Given two positive integers n and k, the binary string Sn is formed as follows:Where + denotes the concatenation operation, reverse(x) returns the reversed string x, and invert(x) inverts all the bits in x (0 changes to 1 and 1 changes to 0).For example, the first four strings in the above sequence are:Return the kth bit in Sn. It is guaranteed that k is valid for the given n. 

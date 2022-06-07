@@ -1,0 +1,1 @@
+ CSES - Download Speed      Consider a network consisting of nn computers and mm connections. Each connection specifies how fast a computer can send data to another computer.  Kotivalo wants to download some data from a server. What is the maximum speed he can do this, using the connections in the network?  

@@ -1,0 +1,1 @@
+Given an array nums of integers, a move consists of choosing any element and decreasing it by 1.An array A is a zigzag array if either:Return the minimum number of moves to transform the given array nums into a zigzag array. 

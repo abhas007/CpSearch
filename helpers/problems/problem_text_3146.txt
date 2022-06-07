@@ -1,0 +1,1 @@
+ CSES - Counting Grids      Your task is to count the number of different n×nn×n grids whose each square is black or white.  Two grids are considered to be different if it is not possible to rotate one of them so that they look the same.  

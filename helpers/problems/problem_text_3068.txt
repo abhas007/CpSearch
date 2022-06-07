@@ -1,0 +1,1 @@
+ CSES - High Score      You play a game consisting of nn rooms and mm tunnels. Your initial score is 0, and each tunnel increases your score by x where x may be both positive or negative. You may go through a tunnel several times.  Your task is to walk from room 1 to room n. What is the maximum score you can get?  

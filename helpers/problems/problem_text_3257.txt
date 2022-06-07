@@ -1,0 +1,1 @@
+ CSES - Coin Arrangement      There is a 2×n2×n grid whose each cell contains some number of coins. The total number of coins is 2n2n.  Your task is to arrange the coins so that each cell contains exactly one coin. On each move you can choose any coin and move it one step left, right, up or down.  What is the minimum number of moves if you act optimally?  
