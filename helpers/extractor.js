@@ -34,7 +34,7 @@ function findFrequency(distinctExtractedKeywords,extraction_result){
 }
 
 let readFileAsStr = (filepath) =>{
-  let data = fs.readFileSync(filepath).toString().split("\n");
+  let data = fs.readFileSync(filepath, 'utf8').split("\n").map(line=>line.replace(/\r/g, ''));
   return data;
 }
 
